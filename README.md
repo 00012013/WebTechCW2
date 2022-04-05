@@ -10,8 +10,4 @@ The list below shows dependencies that used to create application.
 8)allow-prototype-access
 
 Link to github repository
-https://github.com/00012013/12013.git
-
-GitHub (https://github.com/00012013/12013.git)
-GitHub - 00012013/12013
-Contribute to 00012013/12013 development by creating an account on GitHub.
+https://github.com/00012013/WebTechCW2.git 
